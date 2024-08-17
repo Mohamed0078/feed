@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Projects>
+	<Project>
+		<ID>1</ID>
+		<Title>مصادر مياه مستدامة في اليمن</Title>
+		<Description>وفر مصادر مياه مستدامة لمجتمع في اليمن</Description>
+		<Donation>100</Donation>
+		<ImageLink>https://humanappeal.me/media/jisp5cmc/3200x1574-water-yemen.jpg?width=510&height=370&v=1da13be5e701a50</ImageLink>
+		<ProductURL>https://humanappeal.me/تبرع-الآن/حسب-المشروع/الماء-والصرف-الصحي/مصادر-مياه-مستدامة-في-اليمن</ProductURL>
+		<Availability>متوفر</Availability>
+		<Category>الماء والصرف الصحي</Category>
+	</Project>
+	<Project>
+		<ID>2</ID>
+		<Title>صندوق خبز غزة</Title>
+		<Description>ساهم في توفير الخبز لأهلنا في المناطق المختلفة في غزة </Description>
+		<Donation>50</Donation>
+		<ImageLink>https://humanappeal.me/تبرع-الآن/حسب-المشروع/الأمن-الغذائي/خبز-غزة</ImageLink>
+		<ProductURL>https://humanappeal.me/media/vgqfkyn0/gazabread.jpg?width=1200&height=630&v=1dab2af4f2b2720</ProductURL>
+		<Availability>متوفر</Availability>
+		<Category>الأمن لغذائي</Category>
+	</Project>
+</Projects>
